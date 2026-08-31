@@ -22,6 +22,9 @@
 
 ---
 
+### 📦 Application Package (RAP)
+* [Download Pega Application Export (.zip)](https://drive.google.com/file/d/1XrHl26iH9w3Ou-Dc51x0GM6n9LCiYmF-/view?usp=drivesdk)
+
 ## 📖 Overview
 
 The **Movie Ticket Booking Management System** is a low-code enterprise application designed to streamline customer ticket reservations, real-time availability checks, multi-tiered price calculations, queue-based workload distribution, and automated customer correspondence.
